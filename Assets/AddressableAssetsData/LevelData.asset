@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e148011d0b2f4b043ad72e2397a26f52, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  levels:
+  - sceneName: Filler
+    unlocked: 1
+    lockedColor: {r: 0, g: 0, b: 0, a: 1}
+    unlockedColor: {r: 1, g: 1, b: 1, a: 1}
+  - sceneName: Main
+    unlocked: 1
+    lockedColor: {r: 0, g: 0, b: 0, a: 1}
+    unlockedColor: {r: 1, g: 1, b: 1, a: 1}
+  - sceneName: Main 1
+    unlocked: 0
+    lockedColor: {r: 0, g: 0, b: 0, a: 1}
+    unlockedColor: {r: 1, g: 1, b: 1, a: 1}
+  - sceneName: Main 2
+    unlocked: 0
+    lockedColor: {r: 0, g: 0, b: 0, a: 1}
+    unlockedColor: {r: 1, g: 1, b: 1, a: 1}
+  - sceneName: Main 3
+    unlocked: 0
+    lockedColor: {r: 0, g: 0, b: 0, a: 1}
+    unlockedColor: {r: 1, g: 1, b: 1, a: 1}
+  - sceneName: Main 4
+    unlocked: 0
+    lockedColor: {r: 0, g: 0, b: 0, a: 1}
+    unlockedColor: {r: 1, g: 1, b: 1, a: 1}
+  - sceneName: Main 5
+    unlocked: 0
+    lockedColor: {r: 0, g: 0, b: 0, a: 1}
+    unlockedColor: {r: 1, g: 1, b: 1, a: 1}
+  - sceneName: Ending
+    unlocked: 0
+    lockedColor: {r: 0, g: 0, b: 0, a: 1}
+    unlockedColor: {r: 1, g: 1, b: 1, a: 1}

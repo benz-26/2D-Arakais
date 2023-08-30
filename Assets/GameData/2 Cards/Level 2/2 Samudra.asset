@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c393c4862ad045eb9c51620415001f1, type: 3}
+  m_Name: 2 Samudra
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 21300000, guid: ea3e0cd9dc56d0a4e928e99cd0f0c13b, type: 3}
+  placeablesData:
+  - {fileID: 11400000, guid: 954daf2e4ff7642619f3972652e47005, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: c25789f3ebf8d894590d19efab3b0997, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: c25789f3ebf8d894590d19efab3b0997, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: c25789f3ebf8d894590d19efab3b0997, type: 2}
+  - {fileID: 11400000, guid: c25789f3ebf8d894590d19efab3b0997, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: c25789f3ebf8d894590d19efab3b0997, type: 2}
+  - {fileID: 11400000, guid: c25789f3ebf8d894590d19efab3b0997, type: 2}
+  relativeOffsets:
+  - {x: 0, y: 0, z: 0}
+  - {x: -1.77, y: 0, z: -0.51}
+  - {x: -3.54, y: 0, z: -0.08}
+  - {x: 1.76, y: 0, z: -0.51}
+  - {x: 3.65, y: 0, z: -0.08}
+  - {x: -1.77, y: 0, z: -1.72}
+  - {x: 3.65, y: 0, z: -1.29}
+  - {x: 0, y: 0, z: -1.21}
+  - {x: -3.54, y: 0, z: -1.29}
+  - {x: 1.76, y: 0, z: -1.72}
+  - {x: -1.77, y: 0, z: -3.03}
+  - {x: 0, y: 0, z: -2.52}
+  - {x: -3.54, y: 0, z: -2.6}
+  - {x: 1.76, y: 0, z: -3.03}
+  - {x: 3.65, y: 0, z: -2.6}
+  splashAnimation: {fileID: 2927175968372827397, guid: 0c24890bc22dab342989577487a2da50,
+    type: 3}

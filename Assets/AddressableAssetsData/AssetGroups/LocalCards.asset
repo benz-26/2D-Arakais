@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LocalCards
+  m_EditorClassIdentifier: 
+  m_GroupName: LocalCards
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 151328d13c16947b8b2df2d555312652
+  m_SerializeEntries:
+  - m_GUID: d7b5bb0137f614f22a35489614ddbbe8
+    m_Address: 2 Samudra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level2
+  - m_GUID: d7c71ca08e6ff4e9fa7e86dc215ccaed
+    m_Address: 1 Garuda
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Base
+  - m_GUID: f73961e850ac543fcb00d172e912b492
+    m_Address: 5 Chakra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level5
+  - m_GUID: 25b64a94bc0d8444884e98091d862194
+    m_Address: 2 TwoMage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 2
+  - m_GUID: 9d95a0a18ee7f9d46a449bbfbf4fb3aa
+    m_Address: 1 Sapit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Base
+  - m_GUID: e27eea34851b44110a10d2b40b6c07c2
+    m_Address: 1 TwoArcher
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI
+  - m_GUID: b41f16295ac46ea4d82b328a51ff121f
+    m_Address: 2 TwoArcher
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 2
+  - m_GUID: 57f207f6f745a403e92e5a37a755ec84
+    m_Address: 1 TwoWarrior
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI
+  - m_GUID: 9b868cd12d930d54e8a072855603fc66
+    m_Address: 5 Dirada
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level5
+  - m_GUID: 4ae1fcb31c43f0944884b60da3c70917
+    m_Address: 2 Garuda
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level2
+  - m_GUID: cbe65d181c82ecd4ab703cff87a26ee3
+    m_Address: 3 Samudra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level3
+  - m_GUID: 9429801332eb37c40b1321dfb28c4cd1
+    m_Address: 3 Sapit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level3
+  - m_GUID: 65cf8dbe916a9284e9a211e34a328e83
+    m_Address: 3 Chakra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level3
+  - m_GUID: f8fc559ef61f1194dbcd86223c2fd7f1
+    m_Address: 4 Chakra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level4
+  - m_GUID: 637bf936e8ef5574cb01a1325026ae5e
+    m_Address: 4 Samudra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level4
+  - m_GUID: 5dacc89678b073c40b93291b28f7618f
+    m_Address: 4 Garuda
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level4
+  - m_GUID: bcacd844c92b0b84ab999708e6729d7a
+    m_Address: 5 Garuda
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level5
+  - m_GUID: 05da8137796a22f4692998ca13d1e259
+    m_Address: 5 Samudra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level5
+  - m_GUID: 4384776f9a011a741942f56228bc0bc4
+    m_Address: 6 Chakra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level6
+  - m_GUID: b55b582f12d43ad4899a50c39a08787a
+    m_Address: 6 Dirada
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level6
+  - m_GUID: f70474b5044a9d242af951a7f47fe4c6
+    m_Address: 6 Garuda
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level6
+  - m_GUID: b002683b262ace04194d2463e197f0d6
+    m_Address: 6 Samudra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level6
+  - m_GUID: 003e306b632114f46b0a9924aff03d51
+    m_Address: 1 TwoMage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI
+  - m_GUID: 09a7e9f6bbdd28144bd893940766b228
+    m_Address: 2 TwoWarrior
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 2
+  - m_GUID: 31804ec9ecbcb4f46bc709b2d42c5b06
+    m_Address: 3 TwoArcher
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 3
+  - m_GUID: df20a82589ab98145b7d8d1303c540c4
+    m_Address: 3 TwoMage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 3
+  - m_GUID: bfca72684a1be3a4bbdcccceeebde0f6
+    m_Address: 3 TwoWarrior
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 3
+  - m_GUID: e894ea34fba9fa44dbdc1c23ebd090e1
+    m_Address: 4 TwoArcher
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 4
+  - m_GUID: bd0a3d71aa8f84d4bb640a97943c031d
+    m_Address: 4 TwoMage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 4
+  - m_GUID: 0c9ffcd5bf378d842bc58695a8d07cbf
+    m_Address: 4 TwoWarrior
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 4
+  - m_GUID: 065fe81029ef72b4699044ddd25c976b
+    m_Address: 5 TwoArcher
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 5
+  - m_GUID: 528a14511eba655418b13677a28759e1
+    m_Address: 5 TwoMage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 5
+  - m_GUID: d296b91a1a3b33c4abc990cb708a6b33
+    m_Address: 5 TwoWarrior
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 5
+  - m_GUID: 018b23dbce9079b4dacef74cd4fbedbc
+    m_Address: 6 TwoArcher
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 6
+  - m_GUID: 5452ac3f94b8eb84ba4aa821460fa4d3
+    m_Address: 6 TwoMage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 6
+  - m_GUID: f1f9683b24f6fcc499bc8bef6ee031bd
+    m_Address: 6 TwoWarrior
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI 6
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 62fd5e501abef4d188f123698eca5c92, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9c1ed6785db0842debb12aef61e6287c, type: 2}
+    - {fileID: 11400000, guid: edacb952495b841c1a7be48caf1a581d, type: 2}

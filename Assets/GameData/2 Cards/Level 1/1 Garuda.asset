@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c393c4862ad045eb9c51620415001f1, type: 3}
+  m_Name: 1 Garuda
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 21300000, guid: 14e013eb3dcb56a44a1db858c9cc54ce, type: 3}
+  placeablesData:
+  - {fileID: 11400000, guid: 954daf2e4ff7642619f3972652e47005, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  - {fileID: 11400000, guid: 2431e1757dad54fd1ab17324ebab3ff3, type: 2}
+  - {fileID: 11400000, guid: b4c704ea8dc72466dbf5b636942bcc8e, type: 2}
+  relativeOffsets:
+  - {x: 0, y: 0, z: 0}
+  - {x: -0.85, y: 0, z: -0.67}
+  - {x: 0.85, y: 0, z: -0.67}
+  - {x: 2.63, y: 0, z: -1.17}
+  - {x: -2.53, y: 0, z: -1.17}
+  - {x: -3.22, y: 0, z: -2.09}
+  - {x: -2.64, y: 0, z: -3.65}
+  - {x: -0.93, y: 0, z: -2.84}
+  - {x: -0.73, y: 0, z: -4}
+  - {x: 0.73, y: 0, z: -4}
+  - {x: 1.13, y: 0, z: -2.83}
+  - {x: 2.68, y: 0, z: -3.63}
+  - {x: 3.24, y: 0, z: -2.04}
+  splashAnimation: {fileID: 6214828233205614273, guid: 9d82eab9a44b5c446aadd94663bbe518,
+    type: 3}
